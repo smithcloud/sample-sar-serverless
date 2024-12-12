@@ -10,9 +10,9 @@ Metadata:
     LicenseUrl: LICENSE.txt
     ReadmeUrl: README.md
     Labels: ['app']
-    HomePageUrl: https://github.com/tejas0207/sample-serverless-app
+    HomePageUrl: https://github.com/smithcloud/sample-sar-serverless
     SemanticVersion: 0.0.1
-    SourceCodeUrl: https://github.com/tejas0207/sample-serverless-app
+    SourceCodeUrl: https://github.com/smithcloud/sample-sar-serverless
 Parameters: 
     IdentityNameParameter: 
       Type: String
